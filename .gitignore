@@ -1,0 +1,12 @@
+_basurero/*
+project/cache/*
+project/log/*
+
+project/lib/filter/doctrine/sfDoctrineGuardPlugin/base/*
+project/lib/form/doctrine/sfDoctrineGuardPlugin/base/*
+project/lib/model/doctrine/sfDoctrineGuardPlugin/base/*
+project/lib/filter/doctrine/base/*
+project/lib/form/doctrine/base/*
+project/lib/model/doctrine/base/*
+
+project/config/databases.yml
